@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Stephen Fisher's Page
 
-You can use the [editor on GitHub](https://github.com/FisherStephen1/FisherStephen1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FisherStephen1/FisherStephen1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am curretnly learning how to use GitHub and will be using this page as I learn and to post data science projects. Although my major is Computer Engineering, I have a deep interest in coding and data and am excited to learn more about both.  I hope to be able to apply the skills I learn to projects that I am passionate about.
+One of the related field that I am most interested in are sports analytics.  Recently, there has been a big shift in sports leading to teams following the recommendations of data, rather than gut feeling.  There is still a lot more to be learned from data that can have huge impacts in sports. This can also be used to help keep players safer.
+Additionally, I enjoy animals- this is my dog ![Loco](https://i.ibb.co/RP3w320/IMG-4710.jpg)
+Follow my [LinkedIn](https://www.linkedin.com/in/stephenfisher123/)
