@@ -4,4 +4,4 @@ I am curretnly learning how to use GitHub and will be using this page as I learn
 
 One of the related field that I am most interested in are sports analytics.  Recently, there has been a big shift in sports leading to teams following the recommendations of data, rather than gut feeling.  There is still a lot more to be learned from data that can have huge impacts in sports. This can also be used to help keep players safer.
 
-Additionally, follow my [LinkedIn](https://www.linkedin.com/in/stephenfisher123/) and enjoy a picture of my dog Loco[Loco](https://i.ibb.co/RP3w320/IMG-4710.jpg) !
+Additionally, follow my [LinkedIn](https://www.linkedin.com/in/stephenfisher123/) and enjoy a picture of my dog Loco! ![Loco](https://i.ibb.co/RP3w320/IMG-4710.jpg) 
