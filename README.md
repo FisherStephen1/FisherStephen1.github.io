@@ -21,14 +21,22 @@ This is a Bar Graph created using Datawrapper.  It displays the same data as abo
 </script>
 
 
+
 ### Lehigh Enrollment Year by Year
 This is a line chart created using Datawrapper.  It displays year by year the amount of students enrolled in Lehigh's Buisness, Engineering, and Arts & Science programs since 2011.
 <iframe title="Lehigh College's Enrollments" aria-label="Interactive line chart" id="datawrapper-chart-tdtw6" src="https://datawrapper.dwcdn.net/tdtw6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
-
 ### Lehigh Enrollment % Changes
 This is a line chart created using Datawrapper.  Using the same data as the previous chart, it displays the year by year change in percent of students enrolled in Lehigh's Buisness, Engineering, and Arts & Science programs since 2011.
 <iframe title="Lehigh College's Enrollment % Change" aria-label="Interactive line chart" id="datawrapper-chart-B1fZJ" src="https://datawrapper.dwcdn.net/B1fZJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+
+
+### Gender Pay based on Degree
+This is a range chart created using Datawrapper.  It displays the range of earnings from female to male for each level of education.  At every level of education, it is appearent that the median earner for males is higher than that of females.
+<iframe title="Male and Female Earnings by Degree" aria-label="Range Plot" id="datawrapper-chart-ZlpYV" src="https://datawrapper.dwcdn.net/ZlpYV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="281"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
