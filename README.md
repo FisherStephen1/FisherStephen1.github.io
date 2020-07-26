@@ -45,4 +45,4 @@ This is a range chart created using Datawrapper.  It displays the range of earni
 
 ### Mapping Twitter Searches with "Semester"
 This is a map created using ARCGIS with data from Twitter.  I found all of the tweets tweets from the past week containing the string "Semester" and dowload its data.  Then, I created a map using the longitude and latitude data from the tweets showing that most of them came from along the East coast, primarily in the Northeast.
-<iframe src="https://lu.maps.arcgis.com/home/webmap/viewer.html?webmap=aedc2f2776ea41dea2ca0450e3aac3dc"></iframe>
+<iframe src="https://lu.maps.arcgis.com/home/webmap/viewer.html?webmap=aedc2f2776ea41dea2ca0450e3aac3dc" width="90%" height="400"></iframe>
