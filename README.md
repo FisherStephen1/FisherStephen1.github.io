@@ -4,7 +4,7 @@ I am curretnly senior studying Computer Engineering and Data Science at Lehigh w
 
 ### Enjoy Playing the Dinosaur Game
 This is the standard game developed by google for when the internet is not connected.
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="50%" height="100%" loading="lazy"></iframe>
 <style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
 
 ### Lehigh Enrollment 2020 Pie Chart
