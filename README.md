@@ -3,14 +3,6 @@
 I am curretnly senior studying Computer Engineering and Data Science at Lehigh will be using this page as I learn to post projects.  This page includes projects that I have done for class and personal use. Please follow my [LinkedIn](https://www.linkedin.com/in/stephenfisher123/) and enjoy a picture of my dog, Loco! ![Loco](https://i.ibb.co/RP3w320/IMG-4710.jpg) 
 
 
-
-### Enjoy Playing the Dinosaur Game
-This is the standard game developed by google for when the internet is not connected.
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="yes" width="50%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
-
-
-
 ### Lehigh Enrollment 2020 Pie Chart
 This is a Pie Chart created using Datawrapper.  It shows the breakdown in enrollment in Lehigh University by the different colleges and programs.  Scroll down to see this information displayed as a bar graph.
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-uuyQA" src="https://datawrapper.dwcdn.net/uuyQA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="608"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
